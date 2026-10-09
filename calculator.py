@@ -8,3 +8,7 @@ def subtract(num1 , num2):
 
 subtract(4,2)
 
+def multiply(num1, num2):
+    print(num1 * num2)
+
+multiply(2,4)
